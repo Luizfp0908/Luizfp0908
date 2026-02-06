@@ -25,7 +25,7 @@ Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Para
         <img 
             alt="LinkedIn" 
             title="Conecte-se no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/linkedin/follow/luiz-pucci-905b01300?color=0077b5&style=for-the-badge&logo=linkedin&logoColor=white&label=Seguidores&labelColor=005e8e"
+            src="https://www.linkedin.com/in/luiz-francisco-pucci-905b01300/"
         />
     </a>
 </p>
