@@ -1,33 +1,21 @@
 # Luiz Francisco
 
-**`Estudante de engenharia de software`**
+**`Estudante de Engenharia de Software`**
 
 Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Paraná. Atualmente, estou cursando Engenharia de Software na Unicesumar em Ponta Grossa.
 
 ---
 
 <p align="left">
-    <a href="https://www.instagram.com/luizfp_0908/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/instagram/followers/luizfp_0908?color=%23E4405F&style=for-the-badge&logo=instagram&logoColor=white&label=Seguidores&labelColor=C135A2"
-        />
-    </a>
-    <a href="https://x.com/luizPucci6">
-        <img 
-            alt="X (Twitter)" 
-            title="Me siga no X (Twitter)" 
-            src="https://custom-icon-badges.demolab.com/twitter/follow/luizPucci6?color=1da1f2&style=for-the-badge&logo=x&logoColor=white&label=Seguidores&labelColor=117ab8"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/luiz-pucci-905b01300">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
-            src="https://www.linkedin.com/in/luiz-francisco-pucci-905b01300/"
-        />
-    </a>
+  <a href="https://www.instagram.com/luizfp_0908/">
+    <img src="https://custom-icon-badges.demolab.com/instagram/followers/luizfp_0908?color=%23E4405F&style=for-the-badge&logo=instagram&logoColor=white&label=Seguidores&labelColor=C135A2" alt="Instagram" />
+  </a>
+  <a href="https://x.com/luizPucci6">
+    <img src="https://custom-icon-badges.demolab.com/twitter/follow/luizPucci6?color=1da1f2&style=for-the-badge&logo=x&logoColor=white&label=Seguidores&labelColor=117ab8" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-pucci-905b01300">
+    <img src="https://custom-icon-badges.demolab.com/linkedin/follow/luiz-pucci-905b01300?color=0077b5&style=for-the-badge&logo=linkedin&logoColor=white&label=Seguidores&labelColor=005e8e" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -35,11 +23,11 @@ Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Para
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-    <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-    <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" alt="Java" /><span>&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" /><span>&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3" /><span>&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" alt="Bootstrap" /><span>&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git" />
 </p>
 
 ---
@@ -47,14 +35,6 @@ Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Para
 ### 📊 Estatísticas
 
 <p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Languages" />
 </p>
