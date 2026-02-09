@@ -13,7 +13,7 @@ Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Para
   <a href="https://x.com/luizPucci6">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.linkedin.com/in/luiz-pucci-905b01300">
+  <a href="www.linkedin.com/in/luiz-francisco-pucci-905b01300">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
