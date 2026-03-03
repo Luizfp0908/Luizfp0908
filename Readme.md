@@ -1,7 +1,7 @@
 # Luiz Francisco
 **`Estudante de Engenharia de Software`**
 
-[cite_start]Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Paraná.Atualmente, moro em ponta groosa e estou cursando o 5º período de Engenharia de Software na Unicesumar.
+Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Paraná.Atualmente, moro em ponta groosa e estou cursando o 5º período de Engenharia de Software na Unicesumar.
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 📚 Portfólio de Projetos e Estudos
 
-* [cite_start]**[Projetos Alura (APIs)](https://github.com/Luizfp0908/Alura):** Consumo de múltiplas APIs REST e persistência de dados em JSON[cite: 10, 12].
+* **[Projetos Alura (APIs)](https://github.com/Luizfp0908/Alura):** Consumo de múltiplas APIs REST.
 * **[ScreenMatch](https://github.com/Luizfp0908/ScreenMatch):** Sistema de busca de filmes utilizando a API OMDb e Gson.
 * **[Curso em Vídeo](https://github.com/Luizfp0908/Curso-em-video):** Consolidação de lógica de programação e algoritmos.
 * **[Trabalho de POO](https://github.com/Luizfp0908/TrabalhoFaculdadePoo):** Aplicação de Herança, Polimorfismo e Abstração em Java.
