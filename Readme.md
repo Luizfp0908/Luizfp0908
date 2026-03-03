@@ -1,7 +1,7 @@
 # Luiz Francisco
 **`Estudante de Engenharia de Software`**
 
-[cite_start]Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Paraná[cite: 1]. [cite_start]Atualmente, estou no 5º período de Engenharia de Software na Unicesumar[cite: 1].
+[cite_start]Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Paraná.Atualmente, moro em ponta groosa e estou cursando o 5º período de Engenharia de Software na Unicesumar.
 
 ---
 
@@ -19,15 +19,24 @@
 
 ---
 
-### 🤖 Tecnologias e Certificações
+### 🤖 Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/Certificado-Alura_Java_API-orange?style=for-the-badge&logo=java" title="Certificado Alura Java API" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
 </p>
 
-> [cite_start]Recentemente concluí o curso de **Java: Consumindo API, gravando arquivos e lidando com erros** na Alura (Fev/2026).
+---
+
+### 📚 Portfólio de Projetos e Estudos
+
+* [cite_start]**[Projetos Alura (APIs)](https://github.com/Luizfp0908/Alura):** Consumo de múltiplas APIs REST e persistência de dados em JSON[cite: 10, 12].
+* **[ScreenMatch](https://github.com/Luizfp0908/ScreenMatch):** Sistema de busca de filmes utilizando a API OMDb e Gson.
+* **[Curso em Vídeo](https://github.com/Luizfp0908/Curso-em-video):** Consolidação de lógica de programação e algoritmos.
+* **[Trabalho de POO](https://github.com/Luizfp0908/TrabalhoFaculdadePoo):** Aplicação de Herança, Polimorfismo e Abstração em Java.
 
 ---
 
