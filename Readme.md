@@ -1,8 +1,7 @@
 # Luiz Francisco
-
 **`Estudante de Engenharia de Software`**
 
-Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Paraná. Atualmente, estou cursando Engenharia de Software na Unicesumar em Ponta Grossa.
+[cite_start]Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Paraná[cite: 1]. [cite_start]Atualmente, estou no 5º período de Engenharia de Software na Unicesumar[cite: 1].
 
 ---
 
@@ -20,19 +19,20 @@ Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Para
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias e Certificações
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Certificado-Alura%20Java%20API-orange?style=flat-square&logo=java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/Certificado-Alura_Java_API-orange?style=for-the-badge&logo=java" title="Certificado Alura Java API" />
 </p>
+
+> [cite_start]Recentemente concluí o curso de **Java: Consumindo API, gravando arquivos e lidando com erros** na Alura (Fev/2026).
 
 ---
 
 ### 📊 Estatísticas
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
