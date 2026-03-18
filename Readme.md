@@ -1,47 +1,65 @@
-# Luiz Francisco
-**`Estudante de Engenharia de Software`**
+# Olá, eu sou o Luiz Francisco! 👋
 
-Me chamo Luiz Francisco, tenho 19 anos e sou natural de Telêmaco Borba, no Paraná.Atualmente, moro em ponta groosa e estou cursando o 5º período de Engenharia de Software na Unicesumar.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java+Backend;Estudante+de+Engenharia+de+Software;Explorando+o+Ecosistema+JavaScript;Focado+em+Arquitetura+MVC" alt="Typing SVG" />
+</p>
+
+### 👨‍💻 Sobre Mim
+Atualmente no **5º período de Engenharia de Software na Unicesumar**. Sou um entusiasta de tecnologia que adora resolver problemas complexos através da lógica e do código.
+
+- 🚀 **Objetivo:** Primeira oportunidade de Estágio em Desenvolvimento.
+- 🎓 **Certificações:** Inglês Avançado (B2), Excel (40h) e Lógica de Programação.
+- 💻 **Foco:** Backend robusto com Java e interfaces dinâmicas com JavaScript.
 
 ---
 
+### 🛠️ Stack Tecnológica
+
 <p align="left">
-  <a href="https://www.instagram.com/luizfp_0908/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/luizPucci6">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-francisco-pucci-905b01300">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🎓 Certificações em Destaque
+> [!TIP]
+> **Excel Avançado (40h)** - Curso em Vídeo (2026)  
+> **Lógica de Programação (40h)** - Curso em Vídeo (2025)  
+> **Inglês Avançado (B2)** - Fisk (2023)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
+---
+
+### 📚 Portfólio de Projetos
+| Projeto | Tech | Link |
+| :--- | :--- | :--- |
+| **Multi-API Selector** | Java / MVC | [Acessar Repo](https://github.com/Luizfp0908/Alura) |
+| **ScreenMatch** | Java / Gson | [Acessar Repo](https://github.com/Luizfp0908/ScreenMatch) |
+| **Meu Portfólio** | HTML / CSS / JS | [Acessar Repo](https://github.com/Luizfp0908) |
+
+---
+
+### 📊 Atividade no GitHub (Live Status)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Luizfp0908&theme=tokyonight&column=7&no-bg=true&no-frame=true" width="100%" />
 </p>
 
 ---
 
-### 📚 Portfólio de Projetos e Estudos
-
-* **[Projetos Alura (APIs)](https://github.com/Luizfp0908/Alura):** Consumo de múltiplas APIs REST.
-* **[ScreenMatch](https://github.com/Luizfp0908/ScreenMatch):** Sistema de busca de filmes utilizando a API OMDb e Gson.
-* **[Curso em Vídeo](https://github.com/Luizfp0908/Curso-em-video):** Consolidação de lógica de programação e algoritmos.
-* **[Trabalho de POO](https://github.com/Luizfp0908/TrabalhoFaculdadePoo):** Aplicação de Herança, Polimorfismo e Abstração em Java.
-
----
-
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+### 🌐 Conecte-se Comigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-francisco-pucci-905b01300"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/luizfp_0908/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:luizfpucci090806@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
