@@ -1,24 +1,24 @@
 # Olá, eu sou o Luiz Francisco! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Java+Backend;Gestão+de+Projetos+de+Software;Engenharia+de+Requisitos;Explorando+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Java+Backend;Gestão+de+Projetos+de+Software;Especialista+em+Processos+SAP;Engenharia+de+Requisitos" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 Sobre Mim
-Cursando o **5º período de Engenharia de Software na Unicesumar**. Meu foco é construir sistemas robustos com **Java**, mas também sou apaixonado pela organização e viabilidade de produtos, buscando atuar na **Gestão de Projetos** e **Engenharia de Requisitos**.
+Cursando o **5º período de Engenharia de Software na Unicesumar**. Unindo a base técnica em **Java** com a visão estratégica de **Gestão de Projetos**, busco otimizar processos corporativos através de soluções tecnológicas e domínio do ecossistema **SAP**.
 
-- 🚀 **Objetivo:** Estágio em Desenvolvimento Backend ou Gestão de Projetos.
-- 🎓 **Certificações:** Java POO, Excel Avançado (40h), Lógica e Inglês B2.
-- 🛠️ **Diferencial:** Visão sistêmica técnica aliada à organização de processos e requisitos.
+- 🚀 **Objetivo:** Estágio em Gestão de Projetos, Consultoria SAP ou Backend.
+- 🎓 **Certificações:** Gestão e Aplicações SAP (Alura), Java POO e Inglês B2.
+- 🛠️ **Diferencial:** Conhecimento em ERP aliado à Engenharia de Requisitos e Lógica.
 
 ---
 
-### 🛠️ Stack Tecnológica & Gestão
+### 🛠️ Stack Tecnológica & Gestão Corporativa
 
 <p align="left">
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Gestão_de_Projetos-0078D4?style=for-the-badge&logo=microsoft-project&logoColor=white" />
   <img src="https://img.shields.io/badge/Engenharia_de_Requisitos-FFCA28?style=for-the-badge&logo=diagrams.net&logoColor=black" />
@@ -29,20 +29,20 @@ Cursando o **5º período de Engenharia de Software na Unicesumar**. Meu foco é
 
 ### 🎓 Certificações em Destaque
 > [!IMPORTANT]
+> **Gestão e Aplicações SAP** - Alura (2026)  
 > **Java e Orientação a Objetos** - Alura / Curso em Vídeo  
-> **Excel Avançado (40h)** - Curso em Vídeo (2026)  
 > **Inglês Avançado (B2)** - Fisk (2023)  
-> **Lógica de Programação (40h)** - Curso em Vídeo
+> **Excel Avançado (40h)** - Curso em Vídeo
 
 ---
 
-### 📚 Portfólio de Projetos
+### 📚 Portfólio de Projetos & Estudos
 | Projeto | Foco Principal | Tech Stack |
 | :--- | :--- | :--- |
+| **Gestão & SAP** | Processos e ERP | SAP / Gestão |
 | **Multi-API Selector** | Arquitetura & Integração | Java / MVC |
-| **ScreenMatch** | Manipulação de Dados | Java / GSON |
 | **Documentação Escolar** | Gestão & Requisitos | UML / Casos de Uso |
-| **Meu Portfólio** | Interface & Dinâmica | HTML / CSS / JS |
+| **ScreenMatch** | Manipulação de Dados | Java / GSON |
 
 ---
 
@@ -50,10 +50,6 @@ Cursando o **5º período de Engenharia de Software na Unicesumar**. Meu foco é
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luizfp0908&theme=tokyonight&column=7&no-bg=true&no-frame=true" width="100%" />
 </p>
 
 ---
