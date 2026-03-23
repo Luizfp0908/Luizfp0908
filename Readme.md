@@ -39,7 +39,6 @@ Cursando o **5º período de Engenharia de Software na Unicesumar**. Unindo a ro
 ### 📚 Portfólio de Projetos & Estudos
 | Projeto | Foco Principal | Tech Stack |
 | :--- | :--- | :--- |
-| **Scripts de Automação** | Automação de Tarefas | Python |
 | **Gestão & SAP** | Processos e ERP | SAP / Gestão |
 | **Multi-API Selector** | Arquitetura & Integração | Java / MVC |
 | **Documentação Escolar** | Gestão & Requisitos | UML / Casos de Uso |
