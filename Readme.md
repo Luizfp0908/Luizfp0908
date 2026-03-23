@@ -1,15 +1,15 @@
 # Olá, eu sou o Luiz Francisco! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Java+Backend;Gestão+de+Projetos+de+Software;Especialista+em+Processos+SAP;Engenharia+de+Requisitos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Java+e+Python;Gestão+de+Projetos+de+Software;Especialista+em+Processos+SAP;Engenharia+de+Requisitos" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 Sobre Mim
-Cursando o **5º período de Engenharia de Software na Unicesumar**. Unindo a base técnica em **Java** com a visão estratégica de **Gestão de Projetos**, busco otimizar processos corporativos através de soluções tecnológicas e domínio do ecossistema **SAP**.
+Cursando o **5º período de Engenharia de Software na Unicesumar**. Unindo a robustez do **Java** com a versatilidade do **Python**, foco em construir soluções eficientes e automatizadas. Tenho forte inclinação para **Gestão de Projetos** e domínio do ecossistema **SAP**.
 
-- 🚀 **Objetivo:** Estágio em Gestão de Projetos, Consultoria SAP ou Backend.
-- 🎓 **Certificações:** Gestão e Aplicações SAP (Alura), Java POO e Inglês B2.
-- 🛠️ **Diferencial:** Conhecimento em ERP aliado à Engenharia de Requisitos e Lógica.
+- 🚀 **Objetivo:** Estágio em Gestão de Projetos, Consultoria SAP ou Desenvolvimento Backend.
+- 🎓 **Certificações:** Gestão e Aplicações SAP (Alura), Java POO, Python (em progresso) e Inglês B2.
+- 🛠️ **Diferencial:** Visão sistêmica técnica aliada à automação de processos e engenharia de requisitos.
 
 ---
 
@@ -18,11 +18,11 @@ Cursando o **5º período de Engenharia de Software na Unicesumar**. Unindo a ba
 <p align="left">
   <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Gestão_de_Projetos-0078D4?style=for-the-badge&logo=microsoft-project&logoColor=white" />
-  <img src="https://img.shields.io/badge/Engenharia_de_Requisitos-FFCA28?style=for-the-badge&logo=diagrams.net&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel_40h-1D723C?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Cursando o **5º período de Engenharia de Software na Unicesumar**. Unindo a ba
 ### 🎓 Certificações em Destaque
 > [!IMPORTANT]
 > **Gestão e Aplicações SAP** - Alura (2026)  
-> **Java e Orientação a Objetos** - Alura / Curso em Vídeo  
+> **Java e Orientação a Objetos** - Alura / Curso em Vídeo 
 > **Inglês Avançado (B2)** - Fisk (2023)  
 > **Excel Avançado (40h)** - Curso em Vídeo
 
@@ -39,10 +39,10 @@ Cursando o **5º período de Engenharia de Software na Unicesumar**. Unindo a ba
 ### 📚 Portfólio de Projetos & Estudos
 | Projeto | Foco Principal | Tech Stack |
 | :--- | :--- | :--- |
+| **Scripts de Automação** | Automação de Tarefas | Python |
 | **Gestão & SAP** | Processos e ERP | SAP / Gestão |
 | **Multi-API Selector** | Arquitetura & Integração | Java / MVC |
 | **Documentação Escolar** | Gestão & Requisitos | UML / Casos de Uso |
-| **ScreenMatch** | Manipulação de Dados | Java / GSON |
 
 ---
 
