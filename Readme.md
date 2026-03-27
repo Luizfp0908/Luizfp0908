@@ -30,7 +30,8 @@ Cursando o **5º período de Engenharia de Software na Unicesumar**. Unindo a ro
 ### 🎓 Certificações em Destaque
 > [!IMPORTANT]
 > **Gestão e Aplicações SAP** - Alura (2026)  
-> **Java e Orientação a Objetos** - Alura / Curso em Vídeo 
+> **Java e Orientação a Objetos** - Alura / Curso em Vídeo
+> 
 > **Inglês Avançado (B2)** - Fisk (2023)  
 > **Excel Avançado (40h)** - Curso em Vídeo
 
