@@ -46,6 +46,7 @@ Cursando o **5º período de Engenharia de Software na Unicesumar**. Unindo a ro
 ---
 
 ### 📊 Estatísticas Dinâmicas
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" height="170" />
