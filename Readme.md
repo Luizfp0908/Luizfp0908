@@ -1,8 +1,19 @@
-# Olá, eu sou o Luiz Francisco! 👋
+# # Olá, eu sou o Luiz Francisco! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Java+e+Python;Gestão+de+Projetos+de+Software;Especialista+em+Processos+SAP;Engenharia+de+Requisitos" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <a href="https://luizfp0908.github.io/MeuCurriculo/" target="_blank">
+    <img src="https://img.shields.io/badge/ACESSE_MEU_PORTFÓLIO-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-francisco-pucci-905b01300" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 
 ### 👨‍💻 Sobre Mim
 Sou um estudante de **Engenharia de Software (5º período na Unicesumar)** apaixonado por resolver problemas reais. Unindo a robustez do **Java** com a versatilidade do **Python**, meu foco é construir soluções eficientes, escaláveis e automatizadas no Back-end. 
@@ -38,9 +49,11 @@ Tenho uma forte inclinação para **Gestão de Projetos**, **Engenharia de Requi
 
 | Projeto | Papel & Foco | Tecnologias | Descrição |
 | :--- | :--- | :--- | :--- |
-| 🏆 **Podium Arena** | *Product Owner & Arquiteto* | `Python` `Flask` `MySQL` `JS` | Sistema real de gestão de torneios de Beach Tennis. Inclui Live Radar, algorítimo Round-Robin para quadras e Portal do Atleta. |
-| 🎬 **ScreenMatch** | *Desenvolvedor Back-end* | `Java` `Gson` `APIs` | Aplicação que consome a API do OMDb para busca e gerenciamento dinâmico de dados de filmes e séries. |
+| 🏆 **Podium Arena** | *Product Owner & Arquiteto* | `Python` `Flask` `MySQL` `JS` | Sistema real de gestão de torneios de Beach Tennis. Inclui Live Radar e algoritmo Round-Robin. |
+| 🎬 **ScreenMatch** | *Desenvolvedor Back-end* | `Java` `Gson` `APIs` | Aplicação que consome a API do OMDb para busca e gerenciamento dinâmico de dados. |
 | 💼 **Gestão & SAP** | *Analista de Processos* | `SAP` `BPMN` | Mapeamento e estruturação de processos corporativos com foco em integração de ERP. |
+
+> 🌐 **Confira meu currículo interativo e animado em:** [luizfp0908.github.io/MeuCurriculo/](https://luizfp0908.github.io/MeuCurriculo/)
 
 ---
 
@@ -65,7 +78,6 @@ Tenho uma forte inclinação para **Gestão de Projetos**, **Engenharia de Requi
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-francisco-pucci-905b01300" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:luizfpucci090806@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/luizfp_0908" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
