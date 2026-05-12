@@ -18,7 +18,7 @@
 ### 👨‍💻 Sobre Mim
 Sou um estudante de **Engenharia de Software (5º período na Unicesumar)** apaixonado por resolver problemas reais. Unindo a robustez do **Java** com a versatilidade do **Python**, meu foco é construir soluções eficientes, escaláveis e automatizadas no Back-end. 
 
-Tenho uma forte inclinação para **Gestão de Projetos**, **Engenharia de Requisitos** e domínio prático do ecossistema **SAP**, o que me permite ter uma visão sistêmica: entendo não só o código, mas a dor do cliente e o fluxo do negócio.
+Tenho uma forte inclinação para **Gestão de Projetos**, **Engenharia de Requisitos**, entendo não só o código, mas a dor do cliente e o fluxo do negócio.
 
 - 💼 **Atuação Atual:** Estagiário em **PTP (Plan to Production)** na **Klabin**, atuando com processos produtivos e integração.
 - 📍 **Localização:** Ponta Grossa / Telêmaco Borba - PR.
