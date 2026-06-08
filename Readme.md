@@ -1,6 +1,5 @@
 <div align="center">
-  <h1 align="center">Olá, eu sou o Luiz Francisco! 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=550&lines=Engenharia+de+Software;PTP+Intern+@+Klabin;Backend+Developer+(Java/Python);Gestão+de+Projetos+&+SAP" alt="Typing SVG" />
+  <img src="./terminal_atualizado.png" width="100%"/>
 </div>
 
 <p align="center">
