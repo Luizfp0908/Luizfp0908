@@ -98,4 +98,36 @@ Atualmente, faço parte do time da **Klabin** como estagiário em **PTP (Plan to
         <img src="https://img.shields.io/badge/APIs-0D6EFD?style=flat"/>
         <br><br>
         <a href="https://github.com/luizfp0908">
-          <img src="
+          <img src="https://img.shields.io/badge/Ver%20Projeto-%23100f2e?style=for-the-badge&logo=github&logoColor=0D6EFD"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Certificações
+
+<div align="center">
+
+| Certificado | Instituição | Ano |
+| :--- | :--- | :---: |
+| 🏆 **Gestão e Aplicações SAP** | Alura | 2026 |
+| ☕ **Formação Java e Orientação a Objetos** | Alura / Curso em Vídeo | - |
+| 🗣️ **Inglês Avançado (B2)** | Fisk | 2023 |
+| 📊 **Excel Avançado (40h)** | Curso em Vídeo | - |
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
