@@ -1,90 +1,57 @@
 # Olá, eu sou o Luiz Francisco! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Estagiário+PTP+na+Klabin;Desenvolvedor+Java+e+Python;Gestão+de+Projetos+de+Software;Especialista+em+Processos+SAP;Engenharia+de+Requisitos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0D6EFD&center=true&vCenter=true&width=550&lines=Engenharia+de+Software;PTP+Intern+@+Klabin;Backend+Developer+(Java/Python);Gestão+de+Projetos+&+SAP" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://luizfp0908.github.io/MeuCurriculo/" target="_blank">
-    <img src="https://img.shields.io/badge/ACESSE_MEU_PORTFÓLIO-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link Portfólio" />
+    <img src="https://img.shields.io/badge/Portfólio-0D6EFD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Link Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/luiz-francisco-pucci-905b01300" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D6EFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:luizfpucci090806@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D6EFD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
-Sou um estudante de **Engenharia de Software (5º período na Unicesumar)** apaixonado por resolver problemas reais. Unindo a robustez do **Java** com a versatilidade do **Python**, meu foco é construir soluções eficientes, escaláveis e automatizadas no Back-end. 
-
-Tenho uma forte inclinação para **Gestão de Projetos** e **Engenharia de Requisitos**, entendendo não só o código, mas a dor do cliente e o fluxo do negócio.
-
-- 💼 **Atuação Atual:** Estagiário em **PTP (Plan to Production)** na **Klabin**, atuando com processos produtivos e integração.
-- 📍 **Localização:** Ponta Grossa / Telêmaco Borba - PR.
-- 💡 **Diferencial:** Capacidade de atuar como Product Owner (P.O.), levantando requisitos em campo e traduzindo necessidades em arquitetura de software.
+### 👨‍💻 Resumo Profissional
+🎓 **Engenharia de Software (UC)** | 💼 **PTP Intern @ Klabin** | 📍 **PR, Brasil**  
+Foco em desenvolvimento Backend, arquitetura de soluções escaláveis e integração de processos corporativos.
 
 ---
 
-### 🏢 Experiência Profissional
-
-**Klabin**
-*Estagiário PTP (Plan to Production)* | *Atual*
-- Atuação direta nos fluxos de planejamento e produção.
-- Aplicação prática de conceitos de processos corporativos, garantindo o alinhamento entre a estratégia de produção e a execução sistêmica.
-
----
-
-### 🛠️ Stack Tecnológica & Ferramentas
-
-**Linguagens & Back-end**
+### 🛠️ Stack & Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Gestão Corporativa & Processos**
-<p align="left">
-  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gestão_de_Projetos-0078D4?style=for-the-badge&logo=microsoft-project&logoColor=white" />
-  <img src="https://img.shields.io/badge/Engenharia_de_Requisitos-555555?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel_Avançado_40h-1D723C?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0D6EFD?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0D6EFD?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0D6EFD?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0D6EFD?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0D6EFD?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gestão_&_Requisitos-0D6EFD?style=for-the-badge&logo=microsoft-project&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Portfólio de Projetos em Destaque
-
-| Projeto | Papel & Foco | Tecnologias | Descrição |
-| :--- | :--- | :--- | :--- |
-| 🏆 **Podium Arena** | *Product Owner & Arquiteto* | `Python` `Flask` `MySQL` `JS` | Sistema real de gestão de torneios de Beach Tennis. Inclui Live Radar e algoritmo Round-Robin. |
-| 🏐 **Sistema AVV** | *Desenvolvedor Back-end* | `Java` `Spring Boot` `MySQL` | Desenvolvimento de arquitetura e sistema de gestão para a Associação Vila Velha de Vôlei. |
-| 🎬 **ScreenMatch** | *Desenvolvedor Back-end* | `Java` `Gson` `APIs` | Aplicação que consome a API do OMDb para busca e gerenciamento dinâmico de dados. |
-| 💼 **Gestão & SAP** | *Analista de Processos* | `SAP` `BPMN` | Mapeamento e estruturação de processos corporativos com foco em integração de ERP. |
-
-> 🌐 **Confira meu currículo interativo e animado em:** [luizfp0908.github.io/MeuCurriculo/](https://luizfp0908.github.io/MeuCurriculo/)
+### 🚀 Projetos em Destaque
+- 🏆 **Podium Arena:** Sistema real de gestão de torneios de Beach Tennis (Python/Flask).
+- 🏐 **Sistema AVV:** Arquitetura e gestão para a Associação Vila Velha de Vôlei (Java/Spring Boot).
+- 🎬 **ScreenMatch:** Aplicação de consumo dinâmico de APIs (Java).
 
 ---
 
-### 🎓 Certificações
-> [!IMPORTANT]
-> 🏆 **Gestão e Aplicações SAP** - Alura (2026)  
-> ☕ **Formação Java e Orientação a Objetos** - Alura / Curso em Vídeo  
-> 🗣️ **Inglês Avançado (B2)** - Fisk (2023)  
-> 📊 **Excel (40h)** - Curso em Vídeo  
-
----
-
-### 📊 Estatísticas Dinâmicas & Contribuições
+### 📊 Estatísticas
 
 <p align="center">
   <a href="https://github.com/luizfp0908">
-    <img src="https://github-readme-stats.vercel.app/api?username=luizfp0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" height="170" alt="Estatísticas do GitHub" />
+    <!-- Adicionei title_color e icon_color azuis e deixei o fundo transparente para ficar mais clean -->
+    <img src="https://github-readme-stats.vercel.app/api?username=luizfp0908&show_icons=true&theme=transparent&title_color=0D6EFD&text_color=8b949e&icon_color=0D6EFD&hide_border=true&cache_seconds=86400" height="170" alt="Estatísticas" />
   </a>
   <a href="https://github.com/luizfp0908">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfp0908&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" height="170" alt="Linguagens mais utilizadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfp0908&theme=transparent&title_color=0D6EFD&text_color=8b949e&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400" height="170" alt="Linguagens" />
   </a>
 </p>
 
@@ -92,17 +59,8 @@ Tenho uma forte inclinação para **Gestão de Projetos** e **Engenharia de Requ
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luizfp0908/Luizfp0908/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luizfp0908/Luizfp0908/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Luizfp0908/Luizfp0908/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
----
-
-### 🌐 Conecte-se Comigo
-
-<p align="center">
-  <a href="mailto:luizfpucci090806@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/luizfp_0908" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
