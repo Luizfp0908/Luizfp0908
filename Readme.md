@@ -1,7 +1,7 @@
-# # Olá, eu sou o Luiz Francisco! 👋
+# Olá, eu sou o Luiz Francisco! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Estagiário+PTP+na+Klabin;Desenvolvedor+Java+e+Python;Gestão+de+Projetos+de+Software;Especialista+em+Processos+SAP;Engenharia+de+Requisitos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Java+e+Python;Gestão+de+Projetos+de+Software;Especialista+em+Processos+SAP;Engenharia+de+Requisitos" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,20 +18,10 @@
 ### 👨‍💻 Sobre Mim
 Sou um estudante de **Engenharia de Software (5º período na Unicesumar)** apaixonado por resolver problemas reais. Unindo a robustez do **Java** com a versatilidade do **Python**, meu foco é construir soluções eficientes, escaláveis e automatizadas no Back-end. 
 
-Tenho uma forte inclinação para **Gestão de Projetos**, **Engenharia de Requisitos**, entendo não só o código, mas a dor do cliente e o fluxo do negócio.
+Tenho uma forte inclinação para **Gestão de Projetos** e **Engenharia de Requisitos**, entendendo não só o código, mas a dor do cliente e o fluxo do negócio.
 
-- 💼 **Atuação Atual:** Estagiário em **PTP (Plan to Production)** na **Klabin**, atuando com processos produtivos e integração.
 - 📍 **Localização:** Ponta Grossa / Telêmaco Borba - PR.
 - 💡 **Diferencial:** Capacidade de atuar como Product Owner (P.O.), levantando requisitos em campo e traduzindo necessidades em arquitetura de software.
-
----
-
-### 🏢 Experiência Profissional
-
-**Klabin**
-*Estagiário PTP (Plan to Production)* | *Atual*
-- Atuação direta nos fluxos de planejamento e produção.
-- Aplicação prática de conceitos de processos corporativos, garantindo o alinhamento entre a estratégia de produção e a execução sistêmica.
 
 ---
 
@@ -40,6 +30,7 @@ Tenho uma forte inclinação para **Gestão de Projetos**, **Engenharia de Requi
 **Linguagens & Back-end**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
@@ -59,6 +50,7 @@ Tenho uma forte inclinação para **Gestão de Projetos**, **Engenharia de Requi
 | Projeto | Papel & Foco | Tecnologias | Descrição |
 | :--- | :--- | :--- | :--- |
 | 🏆 **Podium Arena** | *Product Owner & Arquiteto* | `Python` `Flask` `MySQL` `JS` | Sistema real de gestão de torneios de Beach Tennis. Inclui Live Radar e algoritmo Round-Robin. |
+| 🏐 **Sistema AVV** | *Desenvolvedor Back-end* | `Java` `Spring Boot` `MySQL` | Desenvolvimento de arquitetura e sistema de gestão para a Associação Vila Velha de Vôlei. |
 | 🎬 **ScreenMatch** | *Desenvolvedor Back-end* | `Java` `Gson` `APIs` | Aplicação que consome a API do OMDb para busca e gerenciamento dinâmico de dados. |
 | 💼 **Gestão & SAP** | *Analista de Processos* | `SAP` `BPMN` | Mapeamento e estruturação de processos corporativos com foco em integração de ERP. |
 
@@ -75,11 +67,21 @@ Tenho uma forte inclinação para **Gestão de Projetos**, **Engenharia de Requi
 
 ---
 
-### 📊 Estatísticas Dinâmicas
+### 📊 Estatísticas Dinâmicas & Contribuições
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" height="170" />
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luizfp0908/Luizfp0908/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luizfp0908/Luizfp0908/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Luizfp0908/Luizfp0908/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
