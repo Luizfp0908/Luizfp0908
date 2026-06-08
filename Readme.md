@@ -17,49 +17,85 @@
 
 ---
 
-### 👨‍💻 Apresentação
+## 👨‍💻 Apresentação
 
 > **Transformando regras de negócio em arquiteturas eficientes e escaláveis.**
 
 Sou estudante do **5º período de Engenharia de Software** pela UniCesumar e atuo na interseção entre a tecnologia e os processos corporativos. Meu foco principal é o desenvolvimento **Backend**, onde uno a robustez do **Java** com a versatilidade do **Python** para construir soluções automatizadas e seguras.
 
-Atualmente, faço parte do time da **Klabin** como estagiário em **PTP (Plan to Production)**, em Telêmaco Borba. O meu trabalho diário envolve garantir que o planejamento estratégico flua perfeitamente para a execução sistêmica. Tenho um olhar forte para a dor do cliente, engenharia de requisitos e otimização de fluxos de trabalho através do **SAP**.
+Atualmente, faço parte do time da **Klabin** como estagiário em **PTP (Plan to Production)**. O meu trabalho diário envolve garantir que o planejamento estratégico flua perfeitamente para a execução sistêmica. Tenho um olhar forte para a dor do cliente, engenharia de requisitos e otimização de fluxos de trabalho através do **SAP**.
 
 ---
 
-### 🛠️ Stack & Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-0D6EFD?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-0D6EFD?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-0D6EFD?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-0D6EFD?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-0D6EFD?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gestão_&_Requisitos-0D6EFD?style=for-the-badge&logo=microsoft-project&logoColor=white" />
-</p>
+## 💻 Linguagens & Backend
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-0D6EFD?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D6EFD?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D6EFD?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D6EFD?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+## ⚙️ Processos & Modelagem
+
+<div align="center">
+
+![SAP](https://img.shields.io/badge/SAP-0D6EFD?style=for-the-badge&logo=sap&logoColor=white)
+![Gestão de Projetos](https://img.shields.io/badge/Gestão_de_Projetos-0D6EFD?style=for-the-badge&logo=microsoft-project&logoColor=white)
+![Engenharia de Requisitos](https://img.shields.io/badge/Engenharia_de_Requisitos-0D6EFD?style=for-the-badge&logo=probot&logoColor=white)
+
+</div>
+
+## 🛠️ Ferramentas & Versionamento
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-0D6EFD?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D6EFD?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-0D6EFD?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
 
 ---
 
-### 🚀 Projetos em Destaque
-- 🏆 **Podium Arena:** Sistema real de gestão de torneios de Beach Tennis (Python/Flask).
-- 🏐 **Sistema AVV:** Arquitetura e gestão para a Associação Vila Velha de Vôlei (Java/Spring Boot).
-- 🎬 **ScreenMatch:** Aplicação de consumo dinâmico de APIs (Java).
+## 🚀 Projetos em Destaque
 
----
-
-### 🎓 Certificações
-- 🏆 **Gestão e Aplicações SAP** - Alura (2026)
-- ☕ **Formação Java e Orientação a Objetos** - Alura / Curso em Vídeo
-- 🗣️ **Inglês (B2)** - Fisk (2023)
-- 📊 **Excel (40h)** - Curso em Vídeo
-
----
-
-### 🐍 Contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏆 Podium Arena</h3>
+      <p align="center">Sistema real de gestão de torneios de Beach Tennis com algoritmo Round-Robin.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-0D6EFD?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-0D6EFD?style=flat&logo=mysql&logoColor=white"/>
+        <br><br>
+        <a href="https://github.com/luizfp0908">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-%23100f2e?style=for-the-badge&logo=github&logoColor=0D6EFD"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏐 Sistema AVV</h3>
+      <p align="center">Desenvolvimento de arquitetura e sistema de gestão para a Associação Vila Velha de Vôlei.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-0D6EFD?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-0D6EFD?style=flat&logo=spring-boot&logoColor=white"/>
+        <br><br>
+        <a href="https://github.com/luizfp0908">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-%23100f2e?style=for-the-badge&logo=github&logoColor=0D6EFD"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🎬 ScreenMatch</h3>
+      <p align="center">Aplicação orientada a objetos que consome a API do OMDb para busca de dados dinâmicos.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-0D6EFD?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/APIs-0D6EFD?style=flat"/>
+        <br><br>
+        <a href="https://github.com/luizfp0908">
+          <img src="
