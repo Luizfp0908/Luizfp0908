@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./terminal_atualizado.png" width="100%"/>
+  <h1 align="center">Olá, eu sou o Luiz Francisco! 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=550&lines=Engenharia+de+Software;PTP+Intern+@+Klabin;Backend+Developer+(Java/Python);Gestão+de+Projetos+&+SAP" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -113,10 +114,27 @@ Atualmente, faço parte do time da **Klabin** como estagiário em **PTP (Plan to
 | Certificado | Instituição | Ano |
 | :--- | :--- | :---: |
 | 🏆 **Gestão e Aplicações SAP** | Alura | 2026 |
-| ☕ **Formação Java e Orientação a Objetos** | Alura / Curso em Vídeo | 2025 |
+| ☕ **Formação Java e Orientação a Objetos** | Alura / Curso em Vídeo | 2026 |
 | 🗣️ **Inglês (B2)** | Fisk | 2023 |
 | 📊 **Excel (40h)** | Curso em Vídeo | 2026 |
 
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfp0908&bg_color=transparent&color=0D6EFD&line=0D6EFD&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/luizfp0908">
+    <img src="https://github-readme-stats.vercel.app/api?username=luizfp0908&show_icons=true&theme=transparent&title_color=0D6EFD&text_color=8b949e&icon_color=0D6EFD&hide_border=true&cache_seconds=86400" height="170" alt="Estatísticas" />
+  </a>
+  <a href="https://github.com/luizfp0908">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfp0908&theme=transparent&title_color=0D6EFD&text_color=8b949e&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400" height="170" alt="Linguagens" />
+  </a>
 </div>
 
 ---
@@ -130,3 +148,9 @@ Atualmente, faço parte do time da **Klabin** como estagiário em **PTP (Plan to
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/luizfp0908/luizfp0908/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luizfp0908&color=0D6EFD&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
+</div>
