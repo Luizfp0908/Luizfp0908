@@ -124,16 +124,18 @@ Atualmente, faço parte do time da **Klabin** como estagiário em **PTP (Plan to
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfp0908&bg_color=transparent&color=0D6EFD&line=0D6EFD&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luizfp0908&bg_color=transparent&color=0D6EFD&line=0D6EFD&point=ffffff&area=true&hide_border=true&v=1" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/luizfp0908">
-    <img src="https://github-readme-stats.vercel.app/api?username=luizfp0908&show_icons=true&theme=transparent&title_color=0D6EFD&text_color=8b949e&icon_color=0D6EFD&hide_border=true&cache_seconds=86400" height="170" alt="Estatísticas" />
+  <a href="https://github.com/Luizfp0908">
+    <img src="https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=transparent&title_color=0D6EFD&text_color=8b949e&icon_color=0D6EFD&hide_border=true&v=1" height="170" alt="Estatísticas" />
   </a>
-  <a href="https://github.com/luizfp0908">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfp0908&theme=transparent&title_color=0D6EFD&text_color=8b949e&layout=compact&langs_count=6&hide_border=true&cache_seconds=86400" height="170" alt="Linguagens" />
+  <a href="https://github.com/Luizfp0908">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=transparent&title_color=0D6EFD&text_color=8b949e&layout=compact&langs_count=6&hide_border=true&v=1" height="170" alt="Linguagens" />
   </a>
 </div>
 
