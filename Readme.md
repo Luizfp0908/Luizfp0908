@@ -63,15 +63,19 @@ Tenho uma forte inclinação para **Gestão de Projetos** e **Engenharia de Requ
 > 🏆 **Gestão e Aplicações SAP** - Alura (2026)  
 > ☕ **Formação Java e Orientação a Objetos** - Alura / Curso em Vídeo  
 > 🗣️ **Inglês Avançado (B2)** - Fisk (2023)  
-> 📊 **Excel Avançado (40h)** - Curso em Vídeo  
+> 📊 **Excel (40h)** - Curso em Vídeo  
 
 ---
 
 ### 📊 Estatísticas Dinâmicas & Contribuições
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luizfp0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfp0908&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" height="170" />
+  <a href="https://github.com/luizfp0908">
+    <img src="https://github-readme-stats.vercel.app/api?username=luizfp0908&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" height="170" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/luizfp0908">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfp0908&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" height="170" alt="Linguagens mais utilizadas" />
+  </a>
 </p>
 
 <br>
