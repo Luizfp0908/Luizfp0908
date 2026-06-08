@@ -9,6 +9,10 @@ on:
     branches:
     - main
 
+# ISSO AQUI RESOLVE O ERRO DE PERMISSÃO (EXIT CODE 128)
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
