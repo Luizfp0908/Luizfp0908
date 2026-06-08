@@ -1,7 +1,7 @@
 # Olá, eu sou o Luiz Francisco! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Java+e+Python;Gestão+de+Projetos+de+Software;Especialista+em+Processos+SAP;Engenharia+de+Requisitos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Estagiário+PTP+na+Klabin;Desenvolvedor+Java+e+Python;Gestão+de+Projetos+de+Software;Especialista+em+Processos+SAP;Engenharia+de+Requisitos" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,8 +20,18 @@ Sou um estudante de **Engenharia de Software (5º período na Unicesumar)** apai
 
 Tenho uma forte inclinação para **Gestão de Projetos** e **Engenharia de Requisitos**, entendendo não só o código, mas a dor do cliente e o fluxo do negócio.
 
+- 💼 **Atuação Atual:** Estagiário em **PTP (Plan to Production)** na **Klabin**, atuando com processos produtivos e integração.
 - 📍 **Localização:** Ponta Grossa / Telêmaco Borba - PR.
 - 💡 **Diferencial:** Capacidade de atuar como Product Owner (P.O.), levantando requisitos em campo e traduzindo necessidades em arquitetura de software.
+
+---
+
+### 🏢 Experiência Profissional
+
+**Klabin**
+*Estagiário PTP (Plan to Production)* | *Atual*
+- Atuação direta nos fluxos de planejamento e produção.
+- Aplicação prática de conceitos de processos corporativos, garantindo o alinhamento entre a estratégia de produção e a execução sistêmica.
 
 ---
 
