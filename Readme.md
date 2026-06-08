@@ -114,9 +114,9 @@ Atualmente, faço parte do time da **Klabin** como estagiário em **PTP (Plan to
 | Certificado | Instituição | Ano |
 | :--- | :--- | :---: |
 | 🏆 **Gestão e Aplicações SAP** | Alura | 2026 |
-| ☕ **Formação Java e Orientação a Objetos** | Alura / Curso em Vídeo | - |
-| 🗣️ **Inglês Avançado (B2)** | Fisk | 2023 |
-| 📊 **Excel Avançado (40h)** | Curso em Vídeo | - |
+| ☕ **Formação Java e Orientação a Objetos** | Alura / Curso em Vídeo | 2025 |
+| 🗣️ **Inglês (B2)** | Fisk | 2023 |
+| 📊 **Excel (40h)** | Curso em Vídeo | 2026 |
 
 </div>
 
