@@ -124,8 +124,6 @@ Atualmente, faço parte do time da **Klabin** como estagiário em **PTP (Plan to
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luizfp0908&bg_color=transparent&color=0D6EFD&line=0D6EFD&point=ffffff&area=true&hide_border=true&v=1" width="100%"/>
 </div>
