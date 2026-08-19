@@ -83,7 +83,7 @@ Sistema de gestão de torneios de Beach Tennis com algoritmo Round-Robin.
 
 `Python` `MySQL`
 
-**[→ adicionar link do repositório]()**
+
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +93,7 @@ Aplicação orientada a objetos que consome a API do OMDb para busca de dados di
 
 `Java` `API REST`
 
-**[→ adicionar link do repositório]()**
+
 
 </td>
 </tr>
