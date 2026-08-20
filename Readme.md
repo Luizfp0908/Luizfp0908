@@ -16,7 +16,7 @@
 
 > **Transformando regras de negócio em arquiteturas eficientes e escaláveis.**
 
-Sou estudante do **5º período de Engenharia de Software** pela UniCesumar, na interseção entre tecnologia e processos corporativos. Meu foco é o desenvolvimento **Backend**, unindo a robustez do **Java** com a versatilidade do **Python** para construir soluções automatizadas e seguras.
+Sou estudante do **6º período de Engenharia de Software** pela UniCesumar, na interseção entre tecnologia e processos corporativos. Meu foco é o desenvolvimento **Backend**, unindo a robustez do **Java** com a versatilidade do **Python** para construir soluções automatizadas e seguras.
 
 Atualmente faço parte do time da **Klabin** como estagiário em **PTP (Plan to Production)**, garantindo que o planejamento estratégico flua até a execução sistêmica. Tenho olhar forte para dor do cliente, engenharia de requisitos e otimização de fluxos de trabalho através do **SAP**.
 
